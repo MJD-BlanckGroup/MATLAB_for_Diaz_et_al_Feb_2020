@@ -1,3 +1,5 @@
+# Discovery-based MATLAB program for RNAseq analysis
+
 Function: to explore potential correlations between gene expression and associated survival rates
 
 Requires median z-score data for Colorectal Adenocarcinoma (TCGA, PanCancer Atlas) study
